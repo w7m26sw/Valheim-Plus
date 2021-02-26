@@ -1,6 +1,10 @@
 # Valheim-Plus
 Clone by https://github.com/valheimPlus/ValheimPlus
 
+## 下載模組
+
+右上角綠色按鈕 **Download Zip**
+
 
 ## 安裝
 
